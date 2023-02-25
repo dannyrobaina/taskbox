@@ -21,515 +21,515 @@ Node.js version : v18.14.0
 
 Operating system : Windows 10
 
-[11:59:04] No configuration file found, switching to CLI flags.
-[11:59:04] Using tsconfig file : C:\Users\danny\projects\tutorials\taskbox\tsconfig.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.browserslistrc
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.editorconfig
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.gitignore
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\angular.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\documentation.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\jest.config.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\LICENSE
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\build-storybook.log
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\package-lock.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\package.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\README.md
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\tsconfig.app.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\tsconfig.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\tsconfig.spec.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.storybook\preview.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.storybook\tsconfig.json
-[11:59:04] Ignoring       : C:\Users\danny\projects\tutorials\taskbox\.storybook\typings.d.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\jest-config\setup.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.storybook\main.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\favicon.ico
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\index.html
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\main.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\polyfills.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\styles.css
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\225.adf1b44b.iframe.bundle.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\239.43bc22d7.iframe.bundle.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\239.43bc22d7.iframe.bundle.js.LICENSE.txt
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\256.d604e1fe22a3f18b608a.manager.bundle.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\291.4044512f.iframe.bundle.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\291.4044512f.iframe.bundle.js.LICENSE.txt
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\295.d529687a131da6bdd8ab.manager.bundle.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\345.b8f4061f.iframe.bundle.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\366.a3b75402.iframe.bundle.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\366.a3b75402.iframe.bundle.js.LICENSE.txt
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\39.2ed10874.iframe.bundle.js.LICENSE.txt
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\39.2ed10874.iframe.bundle.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\468.01895f4e10fff0f7c1e1.manager.bundle.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\468.01895f4e10fff0f7c1e1.manager.bundle.js.LICENSE.txt
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\471.e8faf410.iframe.bundle.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\471.e8faf410.iframe.bundle.js.LICENSE.txt
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\528.424a7bd4a9e142c5a41e.manager.bundle.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\528.424a7bd4a9e142c5a41e.manager.bundle.js.LICENSE.txt
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\551.d0a523cde4424f5b22f1.manager.bundle.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\565.c9971965.iframe.bundle.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\565.c9971965.iframe.bundle.js.LICENSE.txt
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\637.c468643c48a0a633192d.manager.bundle.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\637.c468643c48a0a633192d.manager.bundle.js.LICENSE.txt
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\675.026c885b9c746c5e7254.manager.bundle.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\675.026c885b9c746c5e7254.manager.bundle.js.LICENSE.txt
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\747.2e592bfe.iframe.bundle.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\877.4a51da94.iframe.bundle.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\877.4a51da94.iframe.bundle.js.LICENSE.txt
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\877.4a51da94.iframe.bundle.js.map
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\974.cf670b6aae723599bdbd.manager.bundle.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\996.66e30629.iframe.bundle.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\favicon.ico
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\iframe.html
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\index.html
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\main.84e9271cc0a4a50eeee3.manager.bundle.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\main.b538372f.iframe.bundle.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\main.css
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\percolate.eot
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\percolate.svg
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\percolate.ttf
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\percolate.woff
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\project.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\runtime~main.6741d61b.iframe.bundle.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\runtime~main.7d02c99facc1e1ca496c.manager.bundle.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\jest-config\__mocks__\fileMock.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\jest-config\__mocks__\globalMocks.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\jest-config\__mocks__\styleMock.js
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\assets\.gitkeep
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\environments\environment.prod.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\environments\environment.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\app.component.css
-[11:59:04] Ignoring       : C:\Users\danny\projects\tutorials\taskbox\src\app\app.component.spec.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\app.component.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\button.component.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\button.css
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\Button.stories.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\header.component.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\header.css
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\Header.stories.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\Introduction.stories.mdx
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\page.component.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\page.css
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\app.module.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\Page.stories.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\User.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\assets\font\OpenSans-Light-webfont.eot
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\assets\font\OpenSans-Light-webfont.svg
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\assets\font\OpenSans-Light-webfont.ttf
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\assets\font\OpenSans-Light-webfont.woff
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\assets\font\OpenSans-Regular-webfont.eot
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\assets\font\OpenSans-Regular-webfont.svg
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\assets\font\OpenSans-Regular-webfont.ttf
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\assets\font\OpenSans-Regular-webfont.woff
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\assets\icon\percolate.eot
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\assets\icon\percolate.svg
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\assets\icon\percolate.ttf
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\assets\icon\percolate.woff
-[11:59:04] Ignoring       : C:\Users\danny\projects\tutorials\taskbox\src\app\components\inbox-screen.component.spec.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\models\task.model.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\components\inbox-screen.component.ts
-[11:59:04] Ignoring       : C:\Users\danny\projects\tutorials\taskbox\src\app\components\pure-inbox-screen.component.spec.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\components\pure-inbox-screen.component.ts
-[11:59:04] Ignoring       : C:\Users\danny\projects\tutorials\taskbox\src\app\components\pure-task-list.component.spec.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\components\pure-inbox-screen.stories.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\components\pure-task-list.stories.ts
-[11:59:04] Ignoring       : C:\Users\danny\projects\tutorials\taskbox\src\app\components\task-list.component.spec.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\components\pure-task-list.component.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\components\task-list.component.ts
-[11:59:04] Ignoring       : C:\Users\danny\projects\tutorials\taskbox\src\app\components\task.component.spec.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\components\task.component.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\components\task.module.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\components\task.stories.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\state\task.state.ts
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\assets\code-brackets.svg
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\assets\colors.svg
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\assets\comments.svg
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\assets\direction.svg
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\assets\flow.svg
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\assets\plugin.svg
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\assets\repo.svg
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\assets\stackalt.svg
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\assets\font\OpenSans-Light-webfont.eot
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\assets\font\OpenSans-Light-webfont.svg
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\assets\font\OpenSans-Light-webfont.ttf
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\assets\font\OpenSans-Light-webfont.woff
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\assets\font\OpenSans-Regular-webfont.eot
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\assets\font\OpenSans-Regular-webfont.svg
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\assets\font\OpenSans-Regular-webfont.ttf
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\assets\font\OpenSans-Regular-webfont.woff
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\assets\icon\percolate.eot
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\assets\icon\percolate.svg
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\assets\icon\percolate.ttf
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\assets\icon\percolate.woff
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\04bda3426e5ac3189e9b1d025ea1bfb1.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\04d9ff864352d0fed95544d87093eced.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\04f00981ba2d813956e01cf5930fc8b7.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\06c27a7d40abe45b72c8380238168329.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\07ba44c84293c27a8137f6845ff763c8.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\08a0ffc5773e2a6157a0af697d7e469c.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\0ab4d5f57a84036fef1cce1a1b8a5a8c.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\0bf1148c4118f17127da6bdc79cd6788.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\0632e8079fd3b87afc37bb5243e27719.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\0ca774cb5c3231fa6735a61b5ee11df3.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\0cc065afcdbe8171f3e99b9e06a09f0a.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\0d5307e81a5fc32097c484ebed9c5d25.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\0e0d3b91e83f81a0bdda6c018dbdfa90.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\0f88b450acf0d6b5aef5476cf0baa368.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\107224d46800f39ce2c7c42816394267.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\1092cecaa5c4a92f463bb81d6880d32f.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\116fe805bc0ce21d71f8a7d44ad57c25.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\109ccaf6136a1a380ce4634d424c24f5.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\12cd5797be93313bd41493412547a2fe.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\12fe2f1463c55177795a3a6475db7d61.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\13d7356926531c7fa867a5f8e411614d.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\149865865590cc3a6c46acd337c455fb.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\14a7691bc061d568f6317cf78adbd3c7.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\14f95607ededadb6b9bf3454a7e57337.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\151e5b0457deb55bc2a31e3bca3fc3ed.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\15379c0a3cb4757430690c04b8bbc7d1.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\1931d32cc3c91dd2969427581b79194d.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\1afdc52d5d615e6f1b32c054dd7e8209.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\1cce3f8c45fce7673167f16177ba5401.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\1cd85373874f60b5d96e5dc35f8d2d21.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\1cdc1d09be1c0f328ffc93149a696824.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\1ef8871c8b3b168c2f356bc9c411b11a.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\200a5e7507595d4d7c8fee63d3cb908a.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\2164148d307edb5a3fb35461b40c7d68.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\22ee421a50abfd410fdec87950fe7647.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\23681b50f4bb413da46fe5a0dc712073.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\24c8e1443e6fdfaf477ae5083e2da81a.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\26362612de427ad1c89ee662e9cad5d6.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\275ba8a16be7515fc88983696f02e8d8.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\28cd0e4416eca8e33fdb5a1fcc196b07.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\29e40d5b0138457d9579b202b8bb9c8c.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\29e9e9123f88bf8585ccb65da0dae498.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\2c424e9f74b4d6fac77f14f5b00319c6.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\2c9c4ca5c77c78cbb1a441ad367a4bfb.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\2d1add9f21886c564c078f431e6ded09.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\2d38e4be6970067dd8e158a26ae2a231.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\2df2a23330ab64b9a3d50d7b0ca9e7d0.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\2e0f27527622a2a9c95d9020bde96a95.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\2e246e866ad54085a4ae04d8098224c9.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\2e7ef0857d2616d16a856aa271026cc5.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\2f4c6d1ada0db9db33e5749d9f5efa1d.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\2fe1a9c200514efea4af4cf0a6701eea.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\327595765afbb538f8049ae7033d53ab.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\35538d16686bb9a218322cc98fcd01ae.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\338b542c6f4b49df871b06802cbce50a.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\35747b721be48311621dfe040aada626.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\361fb4f19c9f4847e60bb779f5616477.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\36b339db1d2f8a6bd751f4dfc81f99ca.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\371253f9b5ce5c54a6c104c4c34494c9.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\38cfc928e7d8b8fa5a426f8e651f20a6.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\3a0f8814603f0b2c12583b357e83cc1d.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\3a22eccbf3fdb16e110f2b191e3050c3.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\3ab5b5a99d0297c5adee6642902513a4.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\3cd3d520251c04f23d4be6104aae8c8a.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\3dd5a05584f17a12fa1cbbc75d23bf9a.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\3e1c8374922e46a17ea52803f23d5974.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\3edfb7d77270af59ffd1b847a1573730.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\40e3c139390d2c6f76d4fc8615130d3f.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\436327876d761dabf6226a38ed3d2a63.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\43df8e597dce33f2ff1cb7592f63adda.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\452a13767dcc4cebc999746b16ef2b0f.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\4b60ce6d01da6bf96e62bf343a274d8c.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\4bf4cf13012238d32e9c45a665d63e33.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\4cea9ffc1314880647dd259936a97af8.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\4eae3ecec11e67fa5ac81b0182a52526.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\4edc8a772d2ceb2726e039f82868ce2e.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\509ba7e9386f933843bb420be8a7d730.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\5188c79647d836c863c036ded92b501a.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\57b96137957065f633fc754297ae8b5f.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\53a4c39034c83e2af1e0e4aa229367ae.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\5a8f921098bee5894409039d41e2143a.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\5acc974b26c17654336025f5be7fb53f.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\5ae32e6f21ba289acf54e48f0ac28caf.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\5b911de7691f912606dd1b8570599a63.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\4a05567dc25b2e803edb7ef312d5d619.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\5b9dac33b792042fced467a66d132cd3.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\5f7db13e679238333e49108df8091663.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\61441de3b951ade681472290f16e8e02.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\65028c1e4d134879f4aeb43bf0120363.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\61f3a61b8a28dbb30a4a11a0532b1ccd.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\66fc8b8a5e65a09fc486fdbaf877daf0.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\699152925c95844e96b0936ad6cf53c8.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\6a4ed3ba6c4f33dbd0f1cf4186b65fab.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\6c5a129ec2f7f9bc35f64498d76ae598.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\6cc08d39e3b5b9f47cb9fb0fd0755b2a.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\6da86d1eb7730211a0171543a00916ff.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\70379c169f01669460058243b7d6919e.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\71a00325dd570ade3cac65618a686604.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\72753a9705939c83a274c2ee55f901ae.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\728bf2f205e639fc5bde2234ce7d312e.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\72adc528c5166fcb985e57a9927f88b9.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\7333d7f97a228973af5edc7634a2c359.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\762a667b3549164cc13b10f42d63585c.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\7702a157fb3cc7b57f03d4bea2848ad5.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\73746b4dae6a0cb10f915cdfb8982f48.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\786c5eab0cbd696f1b8c85421ec64eca.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\7951d29a2dc2295683a2e98f497082ef.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\79b106c844be92de35ebc0c9b4e86665.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\7af8a2cb4bf52dda08bc9a38ee7dc8d1.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\7afe129f8e9f3e69f06535876b6d6084.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\7d3a3f39e5dfda62306955ca340f34c0.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\7f584455b0bb451a3cd815b7a4e2a13b.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\806ca2892c4582e6b5ea2317ff3af17b.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\820bea8a085b53db90ab2a6da6e4e113.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\828ab5c8ab6bb7639674f60487f9fb11.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\83412e907f37ad6c8a425d57a4f1d750.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\857ad136f20db61e719098c3cc327f32.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\876ecde4ca1036a8aa240a557a3ef22f.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\89df2658419e9b76bc425f740fec74cc.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\8b17519573fa1ed36382741f45646c4a.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\8b3fa3d3baf1435b93ced938bcb9453d.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\8bfe7b4fe6eddbda2ce7bb6c59831d77.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\8cdd76f14ba026559dc5315e62787a80.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\8cfeac193c86322c1ae5d048d5618aab.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\8d3eb449e72577f460e573aa47130aba.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\90c63f26fa3bb21d490c5f2ade51a0f5.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\9249169805dcbe7d66dd55e5d25e1927.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\93bf82ab4c5ef06e9b979345501eb774.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\938296829a5bc0bc8fcc49c6bf62e17e.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\9441dbc1a62f93c54dce01dfc13040fc.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\948e4b4d72f11bf9f3a77071872a9a3d.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\967791fc7be4e9fe4527437d695f4477.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\96b02a2fc3626c9e0a3211ef2786b3ca.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\988ec710000fac9023269e93cb6b757b.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\98d3826c44397f39ead508e4ad5ce24d.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\9af9510c2e1faf9d1bb38cb1a84dec3e.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\9bd9f62633de48901547eaf1422b6d96.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\9e21bd5d3b034fd43a1aaf9559c3c376.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\a138b982525219e7837743843e89e5d0.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\a2be3836d327e99e385cf78400010e28.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\a2b9ca49059a7946a6bd40521ac1be22.json
-[11:59:04] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\a33b24cee006f6c404d3593fb9a63d66.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\a43b11e3e5b5520c89572c73132aaea7.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\a463b823547b3279a7f73bef2101e8ec.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\a7223f025afb08f22b94a2f05c1c27c1.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\aa32610e5914104101a3b38b0675871b.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\aa64a5fd20c469ba1ee370c7367dbf8d.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\aac9dddc463256eede8d113f2fde004f.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\ab10a92da8cab7dd07730700ccfadcfa.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\ac1447da12ded2b10e3f7002f8ab2e43.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\ac5d68cc1d33341993637935c2953282.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\ad4f144895d1dec2f054855bcbfb8161.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\ade30bb96782498e713f54ecffe4beea.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b06221a629ac05c27a5bd7801f919a8c.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\ae655a89c359c8a866f53bcc2c7a2dea.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b18770a3a02454679fda3da80864f85a.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b11cf563ed11e76c880a57a93c8d51ad.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b28fc0f0651c5af5b7e23a4cd8249979.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b1b9f01519538583aaf0d7cf1426b861.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b298fc3e06d48292869908db1bbfd413.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b2c9d1fd3d606aba58e930abc57d7256.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b3accb27db4a9454c94d2f1d2e942a05.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b2d59982282f4233c07e089a8178207c.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b4b39deb35b59a805dd0059e5dc36a3a.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b4e2867622448f3e6c0a0c29abed086c.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b59c9d6650e67c2b9c0e25380b76b878.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b6932d60a4e0c184cc7301f8c6650db6.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b7158a8dd8e3f2ee4c0ef43696c54887.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b8d35ce35965fbd8c965be07ac378b85.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\ba79b7bf62c06bc0e43284177d65cff5.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\babfb16910cbed76e75d3d4262a3ca25.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\bb09e53262ff6a9355791e9ad2803ca0.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\bdb1ad62f42e60581fb83867613f6918.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\bdf366b03561b55d2b6e4c592cc77a8f.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\be3a9c76e38a0d44b8b14c71c159de56.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\be5bc88bef04ffd09d61e6663fa64086.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\bf51fd9d08fe407484a6b03d5ec671d7.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\c1483bcf20ec3130edae557051e4d1a8.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\c3bf28bb33edd9469d5cd9c085c5c4dc.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\c4a6ffe6756604225ae314fe24061685.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\c559ebe852f4f619200972b0e3e90998.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\c5c5bb87115e8a3114c12bc3fab4fa30.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\c6bd1a50a1c9b46c11ee45b4a503997f.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\c72907ffecdf46a9dec3eccd41cfa3d1.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\c79e3f6c909cd2538b7c3171406d0c36.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\c8ee866e2f8ad2b24521848f6461ae4e.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\c929b3347e5ce69592916c3d686d0595.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\c963cb1f6b8a9f8cbe8edd78ee65b225.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\cf8f13b14e374d85425925c5d6fb8990.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\d0e5a96d454e18830134f2037f796269.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\d1cad5f91d3439cac7feb841f58644d5.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\d1af4bbcf4ea625f8a8d324269518ebb.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\d38ee763c12bf6ad71d32b398c595d90.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\d3fc30c908cd5cf7e33fe1e8c4ce741c.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\d562cb24ebe5c1af7e89f83e1fde09e6.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\d749d39417a3b8c81e5f8ad7e9ab97fb.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\d8ede583af92f418d6659162cb62174e.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\db64fe2db330bffc80688eee4f363962.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\dbbb54b156a8e38f3cba2d93f6d015aa.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\dbe55a74535d7a802c891aa1f5ec2e21.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\de96b58427fe4bc265c87bacc1002b7a.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\df60fb9b5fd193d8e0312edcddd528dd.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\dff927869d7c147062414317ba8c3d97.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\e4196459e9034aab4eaaa51726f6e7a3.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\e43e5ec4b50d8f3bf195021e4dd1fe66.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\e47fe285c9af45aef4bbb15db731a76d.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\e4d952d29ad7556b3a4a3f174957bfd4.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\e737e0d3c1af877e214d4332856298f7.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\ec9c2cbcd92fbff46a3c35465baaa5a0.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\eeb72552423e5a22f29099f97f7857b4.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\ef293e8e9b864a6491324062d8efdd1c.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\f1817164508fbdcc0f1afa1d705c9183.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\f1fc4dd143a623db24de917155284911.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\f2c4909548e8a0f639f1b122d05119fc.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\f2d8d6526200cfda3bdc81e878679dfb.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\f7ebdedf7a795dcc5fb7704fe3bb938a.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\f7eea1f9e118a44da68607088a447c5a.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\fbcf1860b4cec5f201a296577ff52eac.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\fc7c9ee470baf7febc1a1b5982619d92.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\fcc4d72ef7275ae2844bde1a15fcf53a.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\fd620bbd5d7ae086b70599e3c3b9b789.json
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\0.pack
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\1.pack
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\10.pack
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\11.pack
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\12.pack
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\13.pack
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\2.pack
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\14.pack
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\3.pack
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\4.pack
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\5.pack
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\6.pack
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\7.pack
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\8.pack
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\9.pack
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\index.pack
-[11:59:05] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\index.pack.old
-[11:59:05] Searching package.json file
-[11:59:05] package.json file found
-[11:59:05] Processing package.json dependencies
-[11:59:05] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
-[11:59:05] README.md file found
-[11:59:05] Error during C:\Users\danny\projects\tutorials\taskbox\CHANGELOG read
-[11:59:05] Continuing without CHANGELOG.md file
-[11:59:05] Error during C:\Users\danny\projects\tutorials\taskbox\CONTRIBUTING read
-[11:59:05] Continuing without CONTRIBUTING.md file
-[11:59:05] LICENSE.md file found
-[11:59:05] Error during C:\Users\danny\projects\tutorials\taskbox\TODO read
-[11:59:05] Continuing without TODO.md file
-[11:59:05] Get dependencies data
-[11:59:08] parsing        : C:/Users/danny/projects/tutorials/taskbox/jest-config/setup.ts
-[11:59:08] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/main.ts
-[11:59:08] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/polyfills.ts
-[11:59:08] parsing        : C:/Users/danny/projects/tutorials/taskbox/jest-config/__mocks__/globalMocks.ts
-[11:59:08] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/environments/environment.prod.ts
-[11:59:08] found          : environment
-[11:59:08] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/environments/environment.ts
-[11:59:08] found          : environment
-[11:59:08] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/app/app.component.ts
-[11:59:08] found          : AppComponent
-[11:59:08] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/stories/button.component.ts
-[11:59:08] found          : ButtonComponent
-[11:59:08] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/stories/Button.stories.ts
-[11:59:08] found          : Template
-[11:59:08] found          : Primary
-[11:59:08] found          : Secondary
-[11:59:08] found          : Large
-[11:59:08] found          : Small
-[11:59:08] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/stories/header.component.ts
-[11:59:08] found          : HeaderComponent
-[11:59:08] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/stories/Header.stories.ts
-[11:59:08] found          : Template
-[11:59:08] found          : LoggedIn
-[11:59:08] found          : LoggedOut
-[11:59:08] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/stories/page.component.ts
-[11:59:08] found          : PageComponent
-[11:59:08] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/app/app.module.ts
-[11:59:08] found          : AppModule
-[11:59:08]                : - imports:
-[11:59:08]                : 	- BrowserModule
-[11:59:08]                : 	- TaskModule
-[11:59:08]                : 	- NgxsModule
-[11:59:08]                : 	- NgxsReduxDevtoolsPluginModule
-[11:59:08]                : 	- NgxsLoggerPluginModule
-[11:59:08]                : - declarations:
-[11:59:08]                : 	- AppComponent
-[11:59:08]                : 	- InboxScreenComponent
-[11:59:08]                : 	- PureInboxScreenComponent
-[11:59:08]                : - bootstrap:
-[11:59:08]                : 	- AppComponent
-[11:59:08] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/stories/Page.stories.ts
-[11:59:08] found          : Template
-[11:59:08] found          : LoggedOut
-[11:59:08] found          : LoggedIn
-[11:59:08] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/stories/User.ts
-[11:59:08] found          : User
-[11:59:08] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/app/models/task.model.ts
-[11:59:08] found          : Task
-[11:59:08] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/app/components/inbox-screen.component.ts
-[11:59:08] found          : InboxScreenComponent
-[11:59:08] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/app/components/pure-inbox-screen.component.ts
-[11:59:08] found          : PureInboxScreenComponent
-[11:59:08] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/app/components/pure-inbox-screen.stories.ts
-[11:59:08] found          : Template
-[11:59:08] found          : Default
-[11:59:08] found          : Error
-[11:59:08] found          : WithInteractions
-[11:59:08] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/app/components/pure-task-list.stories.ts
-[11:59:08] found          : Template
-[11:59:08] found          : Default
-[11:59:08] found          : WithPinnedTasks
-[11:59:08] found          : Loading
-[11:59:08] found          : Empty
-[11:59:08] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/app/components/pure-task-list.component.ts
-[11:59:08] found          : PureTaskListComponent
-[11:59:08] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/app/components/task-list.component.ts
-[11:59:08] found          : TaskListComponent
-[11:59:08] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/app/components/task.component.ts
-[11:59:08] found          : TaskComponent
-[11:59:08] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/app/components/task.module.ts
-[11:59:08] found          : TaskModule
-[11:59:08]                : - imports:
-[11:59:08]                : 	- CommonModule
-[11:59:08]                : 	- NgxsModule
-[11:59:08]                : - exports:
-[11:59:08]                : 	- TaskComponent
-[11:59:08]                : 	- TaskListComponent
-[11:59:08]                : - declarations:
-[11:59:08]                : 	- TaskComponent
-[11:59:08]                : 	- TaskListComponent
-[11:59:08]                : 	- PureTaskListComponent
-[11:59:08] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/app/components/task.stories.ts
-[11:59:08] found          : actionsData
-[11:59:08] found          : Template
-[11:59:08] found          : Default
-[11:59:08] found          : Pinned
-[11:59:08] found          : Archived
-[11:59:08] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/app/state/task.state.ts
-[11:59:08] found          : actions
-[11:59:08] found          : ArchiveTask
-[11:59:08] found          : PinTask
-[11:59:08] found          : AppError
-[11:59:08] found          : defaultTasks
-[11:59:08] found          : TaskStateModel
-[11:59:08] found          : TasksState
-[11:59:08] -------------------
-[11:59:08] Project statistics 
-[11:59:08] - files      : 368
-[11:59:08] - module     : 2
-[11:59:08] - component  : 9
-[11:59:08] - injectable : 1
-[11:59:08] - class      : 3
-[11:59:08] - interface  : 3
-[11:59:08] -------------------
-[11:59:08] Prepare components
-[11:59:08]  ButtonComponent has styleUrls, include them
-[11:59:08]  HeaderComponent has styleUrls, include them
-[11:59:08]  PageComponent has styleUrls, include them
-[11:59:08] Prepare modules
-[11:59:08] Prepare injectables
-[11:59:08] Prepare classes
-[11:59:08] Prepare interfaces
-[11:59:08] Prepare miscellaneous
-[11:59:08] Process documentation coverage report
-[11:59:08] Generating documentation in export format json
-[11:59:08] Documentation generated in ./ in 3.483 seconds
+[12:04:49] No configuration file found, switching to CLI flags.
+[12:04:49] Using tsconfig file : C:\Users\danny\projects\tutorials\taskbox\tsconfig.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.editorconfig
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.browserslistrc
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.gitignore
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\angular.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\documentation.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\jest.config.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\LICENSE
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\package-lock.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\package.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\build-storybook.log
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\README.md
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\tsconfig.app.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\tsconfig.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\tsconfig.spec.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.storybook\main.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.storybook\preview.js
+[12:04:49] Ignoring       : C:\Users\danny\projects\tutorials\taskbox\.storybook\typings.d.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.storybook\tsconfig.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\jest-config\setup.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\favicon.ico
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\main.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\polyfills.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\index.html
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\styles.css
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\225.adf1b44b.iframe.bundle.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\239.43bc22d7.iframe.bundle.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\239.43bc22d7.iframe.bundle.js.LICENSE.txt
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\256.d604e1fe22a3f18b608a.manager.bundle.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\291.4044512f.iframe.bundle.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\291.4044512f.iframe.bundle.js.LICENSE.txt
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\295.d529687a131da6bdd8ab.manager.bundle.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\345.b8f4061f.iframe.bundle.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\366.a3b75402.iframe.bundle.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\366.a3b75402.iframe.bundle.js.LICENSE.txt
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\39.2ed10874.iframe.bundle.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\39.2ed10874.iframe.bundle.js.LICENSE.txt
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\468.01895f4e10fff0f7c1e1.manager.bundle.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\468.01895f4e10fff0f7c1e1.manager.bundle.js.LICENSE.txt
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\471.e8faf410.iframe.bundle.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\471.e8faf410.iframe.bundle.js.LICENSE.txt
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\528.424a7bd4a9e142c5a41e.manager.bundle.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\528.424a7bd4a9e142c5a41e.manager.bundle.js.LICENSE.txt
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\551.d0a523cde4424f5b22f1.manager.bundle.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\565.c9971965.iframe.bundle.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\565.c9971965.iframe.bundle.js.LICENSE.txt
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\637.c468643c48a0a633192d.manager.bundle.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\637.c468643c48a0a633192d.manager.bundle.js.LICENSE.txt
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\675.026c885b9c746c5e7254.manager.bundle.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\675.026c885b9c746c5e7254.manager.bundle.js.LICENSE.txt
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\747.2e592bfe.iframe.bundle.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\877.4a51da94.iframe.bundle.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\877.4a51da94.iframe.bundle.js.LICENSE.txt
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\877.4a51da94.iframe.bundle.js.map
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\974.cf670b6aae723599bdbd.manager.bundle.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\996.66e30629.iframe.bundle.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\favicon.ico
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\iframe.html
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\index.html
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\main.84e9271cc0a4a50eeee3.manager.bundle.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\main.b538372f.iframe.bundle.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\main.css
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\percolate.eot
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\percolate.svg
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\percolate.ttf
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\percolate.woff
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\project.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\runtime~main.6741d61b.iframe.bundle.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\runtime~main.7d02c99facc1e1ca496c.manager.bundle.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\app.component.css
+[12:04:49] Ignoring       : C:\Users\danny\projects\tutorials\taskbox\src\app\app.component.spec.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\app.component.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\app.module.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\jest-config\__mocks__\fileMock.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\jest-config\__mocks__\styleMock.js
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\assets\.gitkeep
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\environments\environment.prod.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\environments\environment.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\button.component.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\button.css
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\Button.stories.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\header.component.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\jest-config\__mocks__\globalMocks.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\Introduction.stories.mdx
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\header.css
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\page.css
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\Header.stories.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\page.component.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\Page.stories.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\User.ts
+[12:04:49] Ignoring       : C:\Users\danny\projects\tutorials\taskbox\src\app\components\inbox-screen.component.spec.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\components\inbox-screen.component.ts
+[12:04:49] Ignoring       : C:\Users\danny\projects\tutorials\taskbox\src\app\components\pure-inbox-screen.component.spec.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\components\pure-inbox-screen.component.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\components\pure-inbox-screen.stories.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\components\pure-task-list.stories.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\components\pure-task-list.component.ts
+[12:04:49] Ignoring       : C:\Users\danny\projects\tutorials\taskbox\src\app\components\pure-task-list.component.spec.ts
+[12:04:49] Ignoring       : C:\Users\danny\projects\tutorials\taskbox\src\app\components\task-list.component.spec.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\components\task-list.component.ts
+[12:04:49] Ignoring       : C:\Users\danny\projects\tutorials\taskbox\src\app\components\task.component.spec.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\components\task.component.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\components\task.module.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\components\task.stories.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\models\task.model.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\assets\font\OpenSans-Light-webfont.eot
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\assets\font\OpenSans-Light-webfont.svg
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\app\state\task.state.ts
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\assets\font\OpenSans-Light-webfont.ttf
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\assets\font\OpenSans-Light-webfont.woff
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\assets\font\OpenSans-Regular-webfont.eot
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\assets\font\OpenSans-Regular-webfont.ttf
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\assets\font\OpenSans-Regular-webfont.svg
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\assets\font\OpenSans-Regular-webfont.woff
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\assets\icon\percolate.eot
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\assets\icon\percolate.svg
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\assets\icon\percolate.ttf
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\assets\icon\percolate.woff
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\assets\code-brackets.svg
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\assets\colors.svg
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\assets\comments.svg
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\assets\direction.svg
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\assets\flow.svg
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\assets\plugin.svg
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\assets\repo.svg
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\src\stories\assets\stackalt.svg
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\assets\icon\percolate.eot
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\assets\icon\percolate.ttf
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\assets\icon\percolate.svg
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\assets\icon\percolate.woff
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\assets\font\OpenSans-Light-webfont.eot
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\assets\font\OpenSans-Light-webfont.svg
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\assets\font\OpenSans-Light-webfont.ttf
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\assets\font\OpenSans-Light-webfont.woff
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\assets\font\OpenSans-Regular-webfont.eot
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\assets\font\OpenSans-Regular-webfont.svg
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\assets\font\OpenSans-Regular-webfont.ttf
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\storybook-static\assets\font\OpenSans-Regular-webfont.woff
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\04bda3426e5ac3189e9b1d025ea1bfb1.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\04d9ff864352d0fed95544d87093eced.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\0632e8079fd3b87afc37bb5243e27719.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\06c27a7d40abe45b72c8380238168329.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\07ba44c84293c27a8137f6845ff763c8.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\08a0ffc5773e2a6157a0af697d7e469c.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\0ab4d5f57a84036fef1cce1a1b8a5a8c.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\0bf1148c4118f17127da6bdc79cd6788.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\0d5307e81a5fc32097c484ebed9c5d25.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\0cc065afcdbe8171f3e99b9e06a09f0a.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\0ca774cb5c3231fa6735a61b5ee11df3.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\0e0d3b91e83f81a0bdda6c018dbdfa90.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\0f88b450acf0d6b5aef5476cf0baa368.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\107224d46800f39ce2c7c42816394267.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\1092cecaa5c4a92f463bb81d6880d32f.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\04f00981ba2d813956e01cf5930fc8b7.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\109ccaf6136a1a380ce4634d424c24f5.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\116fe805bc0ce21d71f8a7d44ad57c25.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\12cd5797be93313bd41493412547a2fe.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\12fe2f1463c55177795a3a6475db7d61.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\149865865590cc3a6c46acd337c455fb.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\14a7691bc061d568f6317cf78adbd3c7.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\13d7356926531c7fa867a5f8e411614d.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\14f95607ededadb6b9bf3454a7e57337.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\151e5b0457deb55bc2a31e3bca3fc3ed.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\15379c0a3cb4757430690c04b8bbc7d1.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\1931d32cc3c91dd2969427581b79194d.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\1afdc52d5d615e6f1b32c054dd7e8209.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\1cce3f8c45fce7673167f16177ba5401.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\1cd85373874f60b5d96e5dc35f8d2d21.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\1cdc1d09be1c0f328ffc93149a696824.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\1ef8871c8b3b168c2f356bc9c411b11a.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\2164148d307edb5a3fb35461b40c7d68.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\200a5e7507595d4d7c8fee63d3cb908a.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\22ee421a50abfd410fdec87950fe7647.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\23681b50f4bb413da46fe5a0dc712073.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\24c8e1443e6fdfaf477ae5083e2da81a.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\26362612de427ad1c89ee662e9cad5d6.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\275ba8a16be7515fc88983696f02e8d8.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\28cd0e4416eca8e33fdb5a1fcc196b07.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\29e40d5b0138457d9579b202b8bb9c8c.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\29e9e9123f88bf8585ccb65da0dae498.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\2c9c4ca5c77c78cbb1a441ad367a4bfb.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\2c424e9f74b4d6fac77f14f5b00319c6.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\2d1add9f21886c564c078f431e6ded09.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\2d38e4be6970067dd8e158a26ae2a231.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\2df2a23330ab64b9a3d50d7b0ca9e7d0.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\2e0f27527622a2a9c95d9020bde96a95.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\2e246e866ad54085a4ae04d8098224c9.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\2e7ef0857d2616d16a856aa271026cc5.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\2f4c6d1ada0db9db33e5749d9f5efa1d.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\2fe1a9c200514efea4af4cf0a6701eea.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\327595765afbb538f8049ae7033d53ab.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\338b542c6f4b49df871b06802cbce50a.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\35538d16686bb9a218322cc98fcd01ae.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\35747b721be48311621dfe040aada626.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\361fb4f19c9f4847e60bb779f5616477.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\36b339db1d2f8a6bd751f4dfc81f99ca.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\371253f9b5ce5c54a6c104c4c34494c9.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\38cfc928e7d8b8fa5a426f8e651f20a6.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\3a0f8814603f0b2c12583b357e83cc1d.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\3a22eccbf3fdb16e110f2b191e3050c3.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\3ab5b5a99d0297c5adee6642902513a4.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\3cd3d520251c04f23d4be6104aae8c8a.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\3dd5a05584f17a12fa1cbbc75d23bf9a.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\3e1c8374922e46a17ea52803f23d5974.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\3edfb7d77270af59ffd1b847a1573730.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\436327876d761dabf6226a38ed3d2a63.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\40e3c139390d2c6f76d4fc8615130d3f.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\43df8e597dce33f2ff1cb7592f63adda.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\452a13767dcc4cebc999746b16ef2b0f.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\4a05567dc25b2e803edb7ef312d5d619.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\4b60ce6d01da6bf96e62bf343a274d8c.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\4cea9ffc1314880647dd259936a97af8.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\4bf4cf13012238d32e9c45a665d63e33.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\4eae3ecec11e67fa5ac81b0182a52526.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\4edc8a772d2ceb2726e039f82868ce2e.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\509ba7e9386f933843bb420be8a7d730.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\5188c79647d836c863c036ded92b501a.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\57b96137957065f633fc754297ae8b5f.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\53a4c39034c83e2af1e0e4aa229367ae.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\5a8f921098bee5894409039d41e2143a.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\5acc974b26c17654336025f5be7fb53f.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\5b911de7691f912606dd1b8570599a63.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\5ae32e6f21ba289acf54e48f0ac28caf.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\5b9dac33b792042fced467a66d132cd3.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\5f7db13e679238333e49108df8091663.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\61441de3b951ade681472290f16e8e02.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\61f3a61b8a28dbb30a4a11a0532b1ccd.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\65028c1e4d134879f4aeb43bf0120363.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\66fc8b8a5e65a09fc486fdbaf877daf0.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\6a4ed3ba6c4f33dbd0f1cf4186b65fab.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\699152925c95844e96b0936ad6cf53c8.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\6c5a129ec2f7f9bc35f64498d76ae598.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\6cc08d39e3b5b9f47cb9fb0fd0755b2a.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\70379c169f01669460058243b7d6919e.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\71a00325dd570ade3cac65618a686604.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\72753a9705939c83a274c2ee55f901ae.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\6da86d1eb7730211a0171543a00916ff.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\728bf2f205e639fc5bde2234ce7d312e.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\72adc528c5166fcb985e57a9927f88b9.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\7333d7f97a228973af5edc7634a2c359.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\73746b4dae6a0cb10f915cdfb8982f48.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\762a667b3549164cc13b10f42d63585c.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\7702a157fb3cc7b57f03d4bea2848ad5.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\786c5eab0cbd696f1b8c85421ec64eca.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\7951d29a2dc2295683a2e98f497082ef.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\79b106c844be92de35ebc0c9b4e86665.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\7af8a2cb4bf52dda08bc9a38ee7dc8d1.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\7afe129f8e9f3e69f06535876b6d6084.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\7d3a3f39e5dfda62306955ca340f34c0.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\7f584455b0bb451a3cd815b7a4e2a13b.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\806ca2892c4582e6b5ea2317ff3af17b.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\820bea8a085b53db90ab2a6da6e4e113.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\828ab5c8ab6bb7639674f60487f9fb11.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\83412e907f37ad6c8a425d57a4f1d750.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\876ecde4ca1036a8aa240a557a3ef22f.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\857ad136f20db61e719098c3cc327f32.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\89df2658419e9b76bc425f740fec74cc.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\8b17519573fa1ed36382741f45646c4a.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\8b3fa3d3baf1435b93ced938bcb9453d.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\8bfe7b4fe6eddbda2ce7bb6c59831d77.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\8cdd76f14ba026559dc5315e62787a80.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\8cfeac193c86322c1ae5d048d5618aab.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\8d3eb449e72577f460e573aa47130aba.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\90c63f26fa3bb21d490c5f2ade51a0f5.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\9249169805dcbe7d66dd55e5d25e1927.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\938296829a5bc0bc8fcc49c6bf62e17e.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\93bf82ab4c5ef06e9b979345501eb774.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\9441dbc1a62f93c54dce01dfc13040fc.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\948e4b4d72f11bf9f3a77071872a9a3d.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\967791fc7be4e9fe4527437d695f4477.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\96b02a2fc3626c9e0a3211ef2786b3ca.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\988ec710000fac9023269e93cb6b757b.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\98d3826c44397f39ead508e4ad5ce24d.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\9af9510c2e1faf9d1bb38cb1a84dec3e.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\9bd9f62633de48901547eaf1422b6d96.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\9e21bd5d3b034fd43a1aaf9559c3c376.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\a138b982525219e7837743843e89e5d0.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\a2b9ca49059a7946a6bd40521ac1be22.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\a2be3836d327e99e385cf78400010e28.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\a33b24cee006f6c404d3593fb9a63d66.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\a463b823547b3279a7f73bef2101e8ec.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\a7223f025afb08f22b94a2f05c1c27c1.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\aa32610e5914104101a3b38b0675871b.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\aa64a5fd20c469ba1ee370c7367dbf8d.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\aac9dddc463256eede8d113f2fde004f.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\a43b11e3e5b5520c89572c73132aaea7.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\ab10a92da8cab7dd07730700ccfadcfa.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\ac1447da12ded2b10e3f7002f8ab2e43.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\ac5d68cc1d33341993637935c2953282.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\ade30bb96782498e713f54ecffe4beea.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\ad4f144895d1dec2f054855bcbfb8161.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\ae655a89c359c8a866f53bcc2c7a2dea.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b06221a629ac05c27a5bd7801f919a8c.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b11cf563ed11e76c880a57a93c8d51ad.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b18770a3a02454679fda3da80864f85a.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b1b9f01519538583aaf0d7cf1426b861.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b28fc0f0651c5af5b7e23a4cd8249979.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b298fc3e06d48292869908db1bbfd413.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b2c9d1fd3d606aba58e930abc57d7256.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b2d59982282f4233c07e089a8178207c.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b3accb27db4a9454c94d2f1d2e942a05.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b4b39deb35b59a805dd0059e5dc36a3a.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b4e2867622448f3e6c0a0c29abed086c.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b59c9d6650e67c2b9c0e25380b76b878.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b6932d60a4e0c184cc7301f8c6650db6.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b7158a8dd8e3f2ee4c0ef43696c54887.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\b8d35ce35965fbd8c965be07ac378b85.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\ba79b7bf62c06bc0e43284177d65cff5.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\bb09e53262ff6a9355791e9ad2803ca0.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\babfb16910cbed76e75d3d4262a3ca25.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\bdb1ad62f42e60581fb83867613f6918.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\bdf366b03561b55d2b6e4c592cc77a8f.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\be3a9c76e38a0d44b8b14c71c159de56.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\be5bc88bef04ffd09d61e6663fa64086.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\bf51fd9d08fe407484a6b03d5ec671d7.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\c1483bcf20ec3130edae557051e4d1a8.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\c3bf28bb33edd9469d5cd9c085c5c4dc.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\c4a6ffe6756604225ae314fe24061685.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\c559ebe852f4f619200972b0e3e90998.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\c5c5bb87115e8a3114c12bc3fab4fa30.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\c6bd1a50a1c9b46c11ee45b4a503997f.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\c72907ffecdf46a9dec3eccd41cfa3d1.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\c79e3f6c909cd2538b7c3171406d0c36.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\c8ee866e2f8ad2b24521848f6461ae4e.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\c929b3347e5ce69592916c3d686d0595.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\c963cb1f6b8a9f8cbe8edd78ee65b225.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\cf8f13b14e374d85425925c5d6fb8990.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\d0e5a96d454e18830134f2037f796269.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\d1af4bbcf4ea625f8a8d324269518ebb.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\d1cad5f91d3439cac7feb841f58644d5.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\d38ee763c12bf6ad71d32b398c595d90.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\d3fc30c908cd5cf7e33fe1e8c4ce741c.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\d562cb24ebe5c1af7e89f83e1fde09e6.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\d749d39417a3b8c81e5f8ad7e9ab97fb.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\d8ede583af92f418d6659162cb62174e.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\db64fe2db330bffc80688eee4f363962.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\dbbb54b156a8e38f3cba2d93f6d015aa.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\dbe55a74535d7a802c891aa1f5ec2e21.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\de96b58427fe4bc265c87bacc1002b7a.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\df60fb9b5fd193d8e0312edcddd528dd.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\dff927869d7c147062414317ba8c3d97.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\e4196459e9034aab4eaaa51726f6e7a3.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\e43e5ec4b50d8f3bf195021e4dd1fe66.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\e47fe285c9af45aef4bbb15db731a76d.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\e4d952d29ad7556b3a4a3f174957bfd4.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\e737e0d3c1af877e214d4332856298f7.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\ec9c2cbcd92fbff46a3c35465baaa5a0.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\eeb72552423e5a22f29099f97f7857b4.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\ef293e8e9b864a6491324062d8efdd1c.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\f1817164508fbdcc0f1afa1d705c9183.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\f1fc4dd143a623db24de917155284911.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\f2c4909548e8a0f639f1b122d05119fc.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\f2d8d6526200cfda3bdc81e878679dfb.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\f7ebdedf7a795dcc5fb7704fe3bb938a.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\f7eea1f9e118a44da68607088a447c5a.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\fbcf1860b4cec5f201a296577ff52eac.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\fc7c9ee470baf7febc1a1b5982619d92.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\fcc4d72ef7275ae2844bde1a15fcf53a.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\babel-webpack\fd620bbd5d7ae086b70599e3c3b9b789.json
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\0.pack
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\1.pack
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\10.pack
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\11.pack
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\12.pack
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\13.pack
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\14.pack
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\2.pack
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\3.pack
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\4.pack
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\5.pack
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\6.pack
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\8.pack
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\7.pack
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\9.pack
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\index.pack
+[12:04:49] Including      : C:\Users\danny\projects\tutorials\taskbox\.angular\cache\13.3.7\angular-webpack\87baaf1e625456b732408cefdad37344d73d4d18\index.pack.old
+[12:04:49] Searching package.json file
+[12:04:49] package.json file found
+[12:04:49] Processing package.json dependencies
+[12:04:49] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[12:04:49] README.md file found
+[12:04:49] Error during C:\Users\danny\projects\tutorials\taskbox\CHANGELOG read
+[12:04:49] Continuing without CHANGELOG.md file
+[12:04:49] Error during C:\Users\danny\projects\tutorials\taskbox\CONTRIBUTING read
+[12:04:49] Continuing without CONTRIBUTING.md file
+[12:04:49] LICENSE.md file found
+[12:04:49] Error during C:\Users\danny\projects\tutorials\taskbox\TODO read
+[12:04:49] Continuing without TODO.md file
+[12:04:49] Get dependencies data
+[12:04:52] parsing        : C:/Users/danny/projects/tutorials/taskbox/jest-config/setup.ts
+[12:04:52] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/main.ts
+[12:04:52] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/polyfills.ts
+[12:04:52] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/app/app.component.ts
+[12:04:52] found          : AppComponent
+[12:04:52] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/app/app.module.ts
+[12:04:52] found          : AppModule
+[12:04:52]                : - imports:
+[12:04:52]                : 	- BrowserModule
+[12:04:52]                : 	- TaskModule
+[12:04:52]                : 	- NgxsModule
+[12:04:52]                : 	- NgxsReduxDevtoolsPluginModule
+[12:04:52]                : 	- NgxsLoggerPluginModule
+[12:04:52]                : - declarations:
+[12:04:52]                : 	- AppComponent
+[12:04:52]                : 	- InboxScreenComponent
+[12:04:52]                : 	- PureInboxScreenComponent
+[12:04:52]                : - bootstrap:
+[12:04:52]                : 	- AppComponent
+[12:04:52] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/environments/environment.prod.ts
+[12:04:52] found          : environment
+[12:04:52] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/environments/environment.ts
+[12:04:52] found          : environment
+[12:04:52] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/stories/button.component.ts
+[12:04:52] found          : ButtonComponent
+[12:04:52] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/stories/Button.stories.ts
+[12:04:52] found          : Template
+[12:04:52] found          : Primary
+[12:04:52] found          : Secondary
+[12:04:52] found          : Large
+[12:04:52] found          : Small
+[12:04:52] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/stories/header.component.ts
+[12:04:52] found          : HeaderComponent
+[12:04:52] parsing        : C:/Users/danny/projects/tutorials/taskbox/jest-config/__mocks__/globalMocks.ts
+[12:04:52] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/stories/Header.stories.ts
+[12:04:52] found          : Template
+[12:04:52] found          : LoggedIn
+[12:04:52] found          : LoggedOut
+[12:04:52] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/stories/page.component.ts
+[12:04:52] found          : PageComponent
+[12:04:52] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/stories/Page.stories.ts
+[12:04:52] found          : Template
+[12:04:52] found          : LoggedOut
+[12:04:52] found          : LoggedIn
+[12:04:52] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/stories/User.ts
+[12:04:52] found          : User
+[12:04:52] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/app/components/inbox-screen.component.ts
+[12:04:52] found          : InboxScreenComponent
+[12:04:52] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/app/components/pure-inbox-screen.component.ts
+[12:04:52] found          : PureInboxScreenComponent
+[12:04:52] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/app/components/pure-inbox-screen.stories.ts
+[12:04:52] found          : Template
+[12:04:52] found          : Default
+[12:04:52] found          : Error
+[12:04:52] found          : WithInteractions
+[12:04:52] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/app/components/pure-task-list.stories.ts
+[12:04:52] found          : Template
+[12:04:52] found          : Default
+[12:04:52] found          : WithPinnedTasks
+[12:04:52] found          : Loading
+[12:04:52] found          : Empty
+[12:04:52] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/app/components/pure-task-list.component.ts
+[12:04:52] found          : PureTaskListComponent
+[12:04:52] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/app/components/task-list.component.ts
+[12:04:52] found          : TaskListComponent
+[12:04:52] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/app/components/task.component.ts
+[12:04:52] found          : TaskComponent
+[12:04:52] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/app/components/task.module.ts
+[12:04:52] found          : TaskModule
+[12:04:52]                : - imports:
+[12:04:52]                : 	- CommonModule
+[12:04:52]                : 	- NgxsModule
+[12:04:52]                : - exports:
+[12:04:52]                : 	- TaskComponent
+[12:04:52]                : 	- TaskListComponent
+[12:04:52]                : - declarations:
+[12:04:52]                : 	- TaskComponent
+[12:04:52]                : 	- TaskListComponent
+[12:04:52]                : 	- PureTaskListComponent
+[12:04:52] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/app/components/task.stories.ts
+[12:04:52] found          : actionsData
+[12:04:52] found          : Template
+[12:04:52] found          : Default
+[12:04:52] found          : Pinned
+[12:04:52] found          : Archived
+[12:04:52] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/app/models/task.model.ts
+[12:04:52] found          : Task
+[12:04:52] parsing        : C:/Users/danny/projects/tutorials/taskbox/src/app/state/task.state.ts
+[12:04:52] found          : actions
+[12:04:52] found          : ArchiveTask
+[12:04:52] found          : PinTask
+[12:04:52] found          : AppError
+[12:04:52] found          : defaultTasks
+[12:04:52] found          : TaskStateModel
+[12:04:52] found          : TasksState
+[12:04:52] -------------------
+[12:04:52] Project statistics 
+[12:04:52] - files      : 368
+[12:04:52] - module     : 2
+[12:04:52] - component  : 9
+[12:04:52] - injectable : 1
+[12:04:52] - class      : 3
+[12:04:52] - interface  : 3
+[12:04:52] -------------------
+[12:04:52] Prepare components
+[12:04:52]  ButtonComponent has styleUrls, include them
+[12:04:52]  HeaderComponent has styleUrls, include them
+[12:04:52]  PageComponent has styleUrls, include them
+[12:04:52] Prepare modules
+[12:04:52] Prepare injectables
+[12:04:52] Prepare classes
+[12:04:52] Prepare interfaces
+[12:04:52] Prepare miscellaneous
+[12:04:52] Process documentation coverage report
+[12:04:52] Generating documentation in export format json
+[12:04:52] Documentation generated in ./ in 3.664 seconds
 info @storybook/angular v6.5.7
 info 
-info => Cleaning outputDir: C:\Users\danny\AppData\Local\Temp\chromatic--2944-DJO6FufSHJGW
+info => Cleaning outputDir: C:\Users\danny\AppData\Local\Temp\chromatic--29888-zUBNTg89Ou25
 info => Loading presets
 info => Compiling manager..
 info => Compiling preview..
@@ -670,38 +670,40 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 10% building 0/18 entries 2/18 dependencies 0/2 modules
 <s> [webpack.Progress] 10% building import loader ./node_modules/@angular-devkit/build-angular/src/babel/webpack-loader.js
 <s> [webpack.Progress] 10% building import loader ./node_modules/babel-loader/lib/index.js
-<s> [webpack.Progress] 10% building 0/18 entries 13/19 dependencies 0/13 modules
+<s> [webpack.Progress] 10% building 0/18 entries 15/28 dependencies 0/15 modules
 <s> [webpack.Progress] 10% building import loader ./node_modules/@ngtools/webpack/src/ivy/index.js
 <s> [webpack.Progress] 10% building 0/18 entries 15/28 dependencies 0/15 modules
-<s> [webpack.Progress] 10% building import loader ./node_modules/@storybook/source-loader/dist/cjs/index.js
-<s> [webpack.Progress] 10% building 0/18 entries 169/240 dependencies 9/85 modules
-<s> [webpack.Progress] 13% building 1/18 entries 169/240 dependencies 9/85 modules
-<s> [webpack.Progress] 16% building 2/18 entries 344/437 dependencies 38/138 modules
-<s> [webpack.Progress] 16% building 2/18 entries 700/978 dependencies 76/255 modules
-<s> [webpack.Progress] 19% building 3/18 entries 1258/1293 dependencies 133/387 modules
-<s> [webpack.Progress] 19% building 3/18 entries 1600/1998 dependencies 168/435 modules
-<s> [webpack.Progress] 22% building 4/18 entries 2032/2316 dependencies 236/615 modules
-<s> [webpack.Progress] 22% building 4/18 entries 2691/3028 dependencies 295/700 modules
-<s> [webpack.Progress] 22% building 4/18 entries 3600/3630 dependencies 389/927 modules
-<s> [webpack.Progress] 22% building 4/18 entries 4010/4100 dependencies 469/999 modules
-<s> [webpack.Progress] 22% building 4/18 entries 4700/4807 dependencies 655/1072 modules
-<s> [webpack.Progress] 22% building 4/18 entries 5148/5312 dependencies 899/1200 modules
-<s> [webpack.Progress] 22% building 4/18 entries 5862/6100 dependencies 1169/1426 modules
-<s> [webpack.Progress] 25% building 4/18 entries 6229/6272 dependencies 1400/1616 modules
-<s> [webpack.Progress] 26% building 4/18 entries 6486/6500 dependencies 1468/1664 modules
-<s> [webpack.Progress] 27% building 5/18 entries 6656/6672 dependencies 1568/1679 modules
-<s> [webpack.Progress] 28% building 6/18 entries 6656/6672 dependencies 1569/1679 modules
-<s> [webpack.Progress] 31% building 7/18 entries 6656/6672 dependencies 1570/1679 modules
-<s> [webpack.Progress] 34% building 8/18 entries 6656/6672 dependencies 1571/1679 modules
-<s> [webpack.Progress] 37% building 9/18 entries 6656/6672 dependencies 1572/1679 modules
-<s> [webpack.Progress] 40% building 10/18 entries 6656/6672 dependencies 1573/1679 modules
-<s> [webpack.Progress] 43% building 11/18 entries 6656/6672 dependencies 1574/1679 modules
-<s> [webpack.Progress] 46% building 12/18 entries 6656/6672 dependencies 1575/1679 modules
-<s> [webpack.Progress] 49% building 13/18 entries 6656/6672 dependencies 1576/1679 modules
-<s> [webpack.Progress] 52% building 14/18 entries 6803/6824 dependencies 1638/1708 modules
-<s> [webpack.Progress] 55% building 15/18 entries 6943/6947 dependencies 1715/1755 modules
-<s> [webpack.Progress] 58% building 16/18 entries 6943/6947 dependencies 1715/1755 modules
-<s> [webpack.Progress] 61% building 17/18 entries 6949/6949 dependencies 1741/1759 modules
+<s> [webpack.Progress] 10% building 0/18 entries 31/94 dependencies 0/29 modules
+<s> [webpack.Progress] 13% building 1/18 entries 153/217 dependencies 9/75 modules
+<s> [webpack.Progress] 13% building import loader ./node_modules/@storybook/source-loader/dist/cjs/index.js
+<s> [webpack.Progress] 13% building 1/18 entries 172/242 dependencies 9/85 modules
+<s> [webpack.Progress] 16% building 2/18 entries 388/543 dependencies 38/169 modules
+<s> [webpack.Progress] 16% building 2/18 entries 889/1000 dependencies 76/309 modules
+<s> [webpack.Progress] 19% building 3/18 entries 1159/1229 dependencies 108/346 modules
+<s> [webpack.Progress] 19% building 3/18 entries 1347/1700 dependencies 154/380 modules
+<s> [webpack.Progress] 19% building 3/18 entries 1600/1925 dependencies 174/436 modules
+<s> [webpack.Progress] 22% building 4/18 entries 2058/2292 dependencies 256/615 modules
+<s> [webpack.Progress] 22% building 4/18 entries 2733/2800 dependencies 287/853 modules
+<s> [webpack.Progress] 22% building 4/18 entries 3457/3600 dependencies 376/915 modules
+<s> [webpack.Progress] 22% building 4/18 entries 4100/4231 dependencies 409/985 modules
+<s> [webpack.Progress] 22% building 4/18 entries 4500/4530 dependencies 632/1058 modules
+<s> [webpack.Progress] 22% building 4/18 entries 5078/5200 dependencies 922/1186 modules
+<s> [webpack.Progress] 22% building 4/18 entries 5703/5800 dependencies 1109/1376 modules
+<s> [webpack.Progress] 24% building 4/18 entries 6163/6200 dependencies 1320/1611 modules
+<s> [webpack.Progress] 25% building 4/18 entries 6252/6300 dependencies 1412/1625 modules
+<s> [webpack.Progress] 27% building 5/18 entries 6688/6713 dependencies 1582/1685 modules
+<s> [webpack.Progress] 28% building 6/18 entries 6688/6713 dependencies 1583/1685 modules
+<s> [webpack.Progress] 31% building 7/18 entries 6688/6713 dependencies 1583/1685 modules
+<s> [webpack.Progress] 34% building 8/18 entries 6688/6713 dependencies 1583/1685 modules
+<s> [webpack.Progress] 37% building 9/18 entries 6688/6713 dependencies 1583/1685 modules
+<s> [webpack.Progress] 40% building 10/18 entries 6688/6713 dependencies 1583/1685 modules
+<s> [webpack.Progress] 43% building 11/18 entries 6688/6713 dependencies 1583/1685 modules
+<s> [webpack.Progress] 46% building 12/18 entries 6688/6713 dependencies 1583/1685 modules
+<s> [webpack.Progress] 49% building 13/18 entries 6688/6713 dependencies 1583/1685 modules
+<s> [webpack.Progress] 52% building 14/18 entries 6713/6731 dependencies 1612/1687 modules
+<s> [webpack.Progress] 55% building 15/18 entries 6952/6953 dependencies 1718/1758 modules
+<s> [webpack.Progress] 58% building 16/18 entries 6952/6953 dependencies 1734/1758 modules
+<s> [webpack.Progress] 61% building 17/18 entries 6952/6953 dependencies 1734/1758 modules
 <s> [webpack.Progress] 64% building 18/18 entries 6954/6954 dependencies 1759/1759 modules
 <s> [webpack.Progress] 65% building
 <s> [webpack.Progress] 69% building finish
@@ -803,7 +805,7 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 92% sealing asset processing copy-webpack-plugin
 <s> [webpack.Progress] 92% sealing asset processing PersistentChildCompilerSingletonPlugin
 <s> [webpack.Progress] 92% sealing asset processing TerserPlugin
-info => Manager built (23 s)
+info => Manager built (26 s)
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.css generate SourceMap
@@ -897,7 +899,7 @@ info => Manager built (23 s)
 <s> [webpack.Progress] 99% cache begin idle
 <s> [webpack.Progress] 100% 
 
-info => Preview built (31 s)
+info => Preview built (34 s)
 WARN C:/Users/danny/projects/tutorials/taskbox/src/app/app.component.ts is part of the TypeScript compilation but it's unused.
 WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
 WARN C:/Users/danny/projects/tutorials/taskbox/src/app/app.module.ts is part of the TypeScript compilation but it's unused.
@@ -943,4 +945,4 @@ WARN
 <s> [webpack.Progress] 99% cache shutdown
 <s> [webpack.Progress] 100% 
 
-info => Output directory: C:\Users\danny\AppData\Local\Temp\chromatic--2944-DJO6FufSHJGW
+info => Output directory: C:\Users\danny\AppData\Local\Temp\chromatic--29888-zUBNTg89Ou25
